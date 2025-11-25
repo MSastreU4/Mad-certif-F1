@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RecentLinks>
+    <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
+        <Link Value="C:\Users\MSASTRE\OneDrive - Unit4\Desktop\Training\Content\Resources\Images\f1-2022-presentacion-gran-bretana-soymotor.jpg" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.InsertCrossReferenceDialog">
+        <Link Value="C:\Users\MSASTRE\OneDrive - Unit4\Documents\F1 project\Training\Content\C- Drivers\Kubica.htm" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog">
+        <Link Value="C:\Users\MSASTRE\OneDrive - Unit4\Documents\F1 project\Training\Content\C- Drivers\Zhou.htm" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.MultimediaGeneralDialogPage" />
+</RecentLinks>

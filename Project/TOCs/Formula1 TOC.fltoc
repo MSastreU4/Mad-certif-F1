@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Title page"
+    Link="/Content/Title page.htm"
+    BreakType="pageLayout"
+    PageType="title"
+    StartSection="false" />
+  <TocEntry
+    Title="Getting to know the basics">
+    <TocEntry
+      Title="Racing and Strategy"
+      Link="/Content/Racing &amp; Strategy.htm" />
+    <TocEntry
+      Title="Teams">
+      <TocEntry
+        Title="Alfa Romeo Racing"
+        Link="/Content/Extra topics/B- Teams/Alfa Romeo Racing.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+        StartSection="false"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue"
+        ComputeToc="false"
+        ReplaceMergeNode="false" />
+      <TocEntry
+        Title="Alpha Tauri"
+        Link="/Content/Extra topics/B- Teams/Alpha Tauri.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Alpine"
+        Link="/Content/Extra topics/B- Teams/Alpine.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Williams"
+        Link="/Content/Extra topics/B- Teams/Williams.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Aston Martin"
+        Link="/Content/Extra topics/B- Teams/Aston Martin.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Red Bull Racing"
+        Link="/Content/Extra topics/B- Teams/Red Bull Racing.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Ferrari"
+        Link="/Content/Extra topics/B- Teams/Ferrari.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Haas"
+        Link="/Content/Extra topics/B- Teams/Haas.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
+      <TocEntry
+        Title="McLaren"
+        Link="/Content/Extra topics/B- Teams/McLaren.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
+      <TocEntry
+        Title="Mercedes"
+        Link="/Content/Extra topics/B- Teams/Mercedes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Introduction to F1"
+    Link="/Content/Home.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageType="right">
+    <TocEntry
+      Title="Top drivers">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Extra topics/C- Drivers/PG.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Extra topics/C- Drivers/NL.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Extra topics/C- Drivers/MV.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Extra topics/C- Drivers/LH.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Extra topics/C- Drivers/NM.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Extra topics/C- Drivers/EO.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Extra topics/C- Drivers/LN.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Extra topics/C- Drivers/YT.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Extra topics/C- Drivers/FA.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Extra topics/C- Drivers/CS.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Extra topics/C- Drivers/VB.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Extra topics/C- Drivers/MSC.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Extra topics/C- Drivers/DR.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Extra topics/C- Drivers/GR.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Extra topics/C- Drivers/SP.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Extra topics/C- Drivers/SV.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Extra topics/C- Drivers/LS.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Extra topics/C- Drivers/CL.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="New Entry">
+        <TocEntry
+          Title="New entry" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Main Circuits"
+      Link="/Content/Extra topics/D-Circuits/Circuits.htm"></TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedHeader%]"
+      Link="/Content/History.htm"
+      StartSection="false" />
+  </TocEntry>
+  <TocEntry
+    Title="Circuits">
+    <TocEntry
+      Title="Europe" />
+    <TocEntry
+      Title="North America"></TocEntry>
+    <TocEntry
+      Title="South America"></TocEntry>
+    <TocEntry
+      Title="Asia"></TocEntry>
+    <TocEntry
+      Title="Midlle east" />
+    <TocEntry
+      Title="New circuits"></TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="2021 season">
+    <TocEntry
+      Title="Teams 2021 grid" />
+    <TocEntry
+      Title="Drivers 2021 grid"></TocEntry>
+  </TocEntry>
+</CatapultToc>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="WebHelp2"
+  Destinations=""
+  ShowMadCapBacklink="false"
+  GlossaryTermConversion="marked"
+  Skin="/Project/Skins/NewSkin F1.flskn"
+  MasterToc="/Project/TOCs/Formula1 TOC.fltoc"
+  DefaultUrl="/Content/Home.htm"
+  conditions=""
+  ConditionTagExpression="include[Default.ScreenOnly], exclude[Default.Mobile or Default.PrintOnly]"
+  MasterPage="/Content/Resources/TemplatePages/Other-Topics.flmsp"
+  MasterStylesheet="/Content/Resources/Stylesheets/Style F1.css"
+  MasterStylesheetOverride="true"
+  UseDeviceWidth="false"
+  LiveHelpType="Disabled"
+  UseCustomTopicFileExtension="false"
+  UseEmptyAltText="false">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true"
+    OutputFormat="docx" />
+  <PDF
+    Tagged="true"
+    TitleBar="DocumentTitle" />
+</CatapultTarget>

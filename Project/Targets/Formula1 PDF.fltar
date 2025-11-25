@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  ShowMadCapBacklink="true"
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/Formula1 TOC.fltoc"
+  DefaultUrl="/Content/Home.htm"
+  ConditionTagExpression="include[Default.PrintOnly], exclude[Default.ScreenOnly]"
+  PatchHeadingLevels="false"
+  conditions="Default.PrintOnly"
+  MasterPageLayout="/Content/Resources/PageLayouts/Formula1_1.flpgl"
+  MasterStylesheet="/Content/Resources/Stylesheets/Style F1.css"
+  GetLatestBeforeCompile="true">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="false"
+    OutputFormat="docx"
+    PopupConversion="expand" />
+  <PDF
+    Tagged="true"
+    TitleBar="DocumentTitle" />
+</CatapultTarget>

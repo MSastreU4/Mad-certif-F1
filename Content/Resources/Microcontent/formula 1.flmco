@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set.">
+    <MicroContent id="what-is-micro-content">
+        <MicroContentPhrase>Formula One</MicroContentPhrase>
+        <MicroContentPhrase>fastest</MicroContentPhrase>
+        <MicroContentPhrase>cars</MicroContentPhrase>
+        <MicroContentPhrase>formula 1</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:head>
+                </xhtml:head>
+                <xhtml:body>
+                    <xhtml:p xhtml:style="font-weight: normal;">The Formula One series originated with the European Championship of Grand Prix motor of the 1920s and 1930s. The formula consists of a set of rules that all participants' cars must meet but the actual Formula 1 race was the 1946 Turin Grand Prix, after the II World War.</xhtml:p>
+                    <xhtml:p xhtml:style="font-weight: normal;">The first world championship race took place at Silverstone in the United Kingdom in 1950. A championship for constructors followed in 1958. </xhtml:p>
+                    <xhtml:p xhtml:style="font-weight: normal;">Formula One cars are the fastest regulated road-course racing cars in the world, owing to very high cornering speeds achieved through the generation of large amounts of aerodynamic downforce. The cars underwent major changes in 2017, allowing wider front and rear wings, and wider tyres, resulting in peak cornering forces  and top speeds of around 350 km/h (215 mph). As of 2021, the hybrid engine began to be used but were limited in performance in comparison with old diesel-fuelled cars. The cars now are very dependent on electronics and aerodynamics, suspension and tyres. Traction control, launch control, and automatic shifting, plus other electronic driving aids are completely banned since 2008.</xhtml:p>
+                    <xhtml:p xhtml:style="font-weight: normal;">&#160;</xhtml:p>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+</MicroContentSet>

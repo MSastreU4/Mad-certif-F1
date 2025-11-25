@@ -1,0 +1,107 @@
+
+/* Base Styles */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #ffffff;
+  color: #333333;
+  line-height: 1.6;
+  margin: 0;
+  padding: 20px;
+}
+
+/* Headings */
+h1, h2, h3 {
+  color: #b30000;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+h1 {
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 5px;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+h3 {
+  font-size: 1.2em;
+}
+
+/* Paragraphs */
+p {
+  margin: 10px 0;
+}
+
+/* Links */
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #004999;
+}
+
+/* Lists */
+ul, ol {
+  margin: 10px 0 10px 20px;
+}
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+table, th, td {
+  border: 1px solid #ddd;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+/* Containers */
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+/* Footer */
+footer {
+  margin-top: 40px;
+  font-size: 0.9em;
+  color: #777;
+  text-align: center;
+}
+
+/* Responsive Images */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Highlight Boxes */
+.notice {
+  background-color: #fff3cd;
+  border-left: 6px solid #ffeeba;
+  padding: 10px 15px;
+  margin: 20px 0;
+}
+
+/* Code Blocks */
+pre, code {
+  background-color: #f4f4f4;
+  padding: 5px;
+  font-family: Consolas, monospace;
+  overflow-x: auto;
+}
